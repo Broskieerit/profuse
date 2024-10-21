@@ -32,7 +32,7 @@ async function postPickupLine(api) {
         };
 
         await api.httpPost(
-            `https://graph.facebook.com/v17.0/303798532824975/feed`,
+            `https://graph.facebook.com/v17.0/489170010937035/feed`,
             formData
         );
 
